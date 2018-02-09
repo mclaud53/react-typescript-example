@@ -57,3 +57,10 @@ typings/
 # dotenv environment variables file
 .env
 
+.idea/
+.test/
+.build/
+.baseDir.ts
+.baseDir.js
+.tscache/
+tscommand-*.tmp.txt
